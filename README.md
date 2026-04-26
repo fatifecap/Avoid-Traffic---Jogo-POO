@@ -6,7 +6,7 @@
 
 # AVOID TRAFFIC
 <p align="center">
-  <img src="imagens/LOGO%20JOGO.PNG" alt="Logo do Jogo" width="400"/>
+  <img src="Imagens/LOGO%20JOGO.PNG" alt="Logo do Jogo" width="400"/>
 </p>
 
 ## Integrantes: <a href="https://www.linkedin.com/in/luis-felipe-trindade25/">Luis Felipe Trindade</a>, <a href="https://www.linkedin.com/in/julia-basilio-aa7a17303">Julia Gomes Basílio</a>, <a href="https://www.linkedin.com/in/maria-eduarda-barberino-olo-b26a2a365">Maria Eduarda Barberino Olo</a>, <a href="https://www.linkedin.com/in/fátima-gomes-19950338a">Fátima Eduarda Gomes Balbino</a>
