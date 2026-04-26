@@ -19,4 +19,4 @@ Cada corrida é uma corrida contra o tempo — e contra a cidade.
 ## 🛠 Instalação
 
 Não há instalação!
-Encontre o index.html na pasta executáveis e execute-o como uma página WEB (através de algum browser).
+Entre em [Link-AvoidTraffic](https://avoidtraffic.netlify.app/) (através de algum browser).
