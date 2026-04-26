@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Avoid Traffic</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com"/>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+
+  <!-- TELA INICIAL -->
+  <div id="menuScreen" class="screen active">
+    <div class="title-block">
+      <span class="title-avoid">AVOID</span>
+      <span class="title-traffic">TRAFFIC</span>
+    </div>
+    <button id="btnStart" onclick="iniciarJogo()">INICIAR</button>
+  </div>
+
+  <!-- TELA DO JOGO -->
+  <div id="gameScreen" class="screen">
+    <div id="hud">
+      <span>⏱️ <strong id="hudTempo">30</strong>s</span>
+      <span>⭐ <strong id="hudPontos">0</strong></span>
+      <span>❤️ <strong id="hudVidas">❤️❤️❤️</strong></span>
+      <span id="hudStatus">📦 Buscar pedido!</span>
+    </div>
+    <canvas id="gameCanvas"></canvas>
+  </div>
+
+  <!-- TELA GAME OVER -->
+  <div id="gameOverScreen" class="screen">
+    <div class="over-box">
+      <h1 class="over-title">GAME OVER</h1>
+      <p id="finalScore"></p>
+      <button onclick="reiniciarJogo()">JOGAR NOVAMENTE</button>
+    </div>
+  </div>
+
+  <script src="game.js"></script>
+</body>
+</html>
