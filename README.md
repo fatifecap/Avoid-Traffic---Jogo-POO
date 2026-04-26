@@ -25,10 +25,10 @@ No **AVOID TRAFFIC**, você controla um motoboy que precisa fazer entregas pela 
 
 ### 🕹️ Controles (Desktop)
 
-- ⬆️ **Seta para cima / W** → Acelerar  
-- ⬇️ **Seta para baixo / S** → Frear  
-- ⬅️ **Seta para esquerda / A** → Ir para a esquerda  
-- ➡️ **Seta para direita / D** → Ir para a direita  
+- ⬆️ **Seta para cima** → Acelerar  
+- ⬇️ **Seta para baixo** → Frear  
+- ⬅️ **Seta para esquerda** → Ir para a esquerda  
+- ➡️ **Seta para direita** → Ir para a direita  
 
 ---
 
